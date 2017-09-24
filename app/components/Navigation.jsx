@@ -17,7 +17,7 @@ var Navigation = React.createClass({
             <Link to="/Qualifications">Qualifications</Link>
         </li>
         <li>
-            <Link to="/">Proficiency</Link>
+            <Link to="/Proficiency">Proficiency</Link>
         </li>
         <li>
             <Link to="/">Contact Details</Link>
@@ -27,7 +27,7 @@ var Navigation = React.createClass({
     <div className="top-bar-right">
   <ul className="menu">
     <li className="menu-text">
-      <a href="https://www.linkedin.com/in/srikanth-chevalam-32071b7/" target="_blank">Srikanth Chevalam</a>
+      Created By <a href="https://www.linkedin.com/in/srikanth-chevalam-32071b7/" target="_blank">Srikanth Chevalam</a>
     </li>
   </ul>
 </div>

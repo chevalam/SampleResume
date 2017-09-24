@@ -25,6 +25,8 @@ module.exports= {
      Main: 'app/components/Main.jsx',
      Navigation: 'app/components/Navigation.jsx',
      Qualifications: 'app/components/Qualifications.jsx',
+     Proficiency: 'app/components/Proficiencies.jsx',
+     Experience: 'app/components/Companies.jsx',
   applicationStyles: 'app/styles/app.scss'
    },
    extensions: ['','.js','.jsx']
