@@ -1,7 +1,7 @@
 var React = require('react');
 var Experience = React.createClass({
   render: function(){
-    return (<div className="row small-up-2 medium-up-3 large-up-5 align-center">
+    return (<div className="row small-up-2 medium-up-3 large-up-2 align-center">
     <div id="experience" className="column medium-4">
         <div className="card">
           <div className="card-section">
